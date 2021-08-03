@@ -9,7 +9,7 @@
  * @author Ahmed Moussa <moussa.ahmed95@gmail.com>
  * @version 2.0
  */
- class Colour {
+ export class Colour {
 	/**
 	 * Convert HEX to LAB
 	 * @param {[string]} hex hex colour value desired to be converted to LAB
